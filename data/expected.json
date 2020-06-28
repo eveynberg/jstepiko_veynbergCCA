@@ -1,0 +1,24 @@
+{
+  "general": {
+    "header": "Counters",
+    "totalResult": "Total: 0",
+    "addNameField": "Counter Name",
+    "addNameFieldLabel": "Enter Counter Title:",
+    "defaultValueField": "50",
+    "defaultValueFieldLabel": "Enter Initial Count:",
+    "addCounterBtn": "ADD COUNTER"
+  },
+  "counter": {
+    "counterName": "1. Default Counter",
+    "lowerLimitField": "CHANGE STEP OPTIONS?",
+    "upperLimitField": "CHANGE STEP OPTIONS?",
+    "countValue": "0",
+    "deleteBtn": "DELETE",
+    "resetBtn": "RESET",
+    "editNameField": "Default Counter",
+    "editNameFieldLabel": "Edit Counter Title:",
+    "blackBtn": "['-1', '-2', '-3', '1', '2', '3']"
+  }
+}
+
+
