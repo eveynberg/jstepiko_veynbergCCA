@@ -1,0 +1,10 @@
+
+
+{
+  "general": {
+    "header": "h1",
+    "totalResult": "h3.total-count"
+  },
+  "counter": {}
+}
+
